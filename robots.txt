@@ -1,1 +1,1 @@
-Sitemap: http://coohex.github.io/sitemap.xml
+Sitemap: https://coohex.github.io/sitemap.xml
