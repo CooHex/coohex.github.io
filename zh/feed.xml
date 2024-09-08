@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>coohexstudio</title>
+    <description>Guangzhou CooHex Technology Co., Ltd., CooHex Games, is an indie game development company located in Guangzhou, China. Since its establishment in 2014, we have focused on the development of high-quality mobile games and are committed to developing various original games that bring happiness to players. Our Game &quot;Lost Journey&quot; has won major awards at home and abroad, and has been recommended by Google and Apple. It has been ranked first in the paid list in 83 countries around the world.</description>
+    <link>http://coohex.github.io/</link>
+    <atom:link href="http://coohex.github.io/zh/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 08 Sep 2024 08:33:14 -0600</pubDate>
+    <lastBuildDate>Sun, 08 Sep 2024 08:33:14 -0600</lastBuildDate>
+    <generator>Jekyll v4.3.3</generator>
+    
+    
+      
+      <item>
+        <title>Energy Empire - Reactor Tycoon</title>
+        <description>Energy Empire - Reactor Tycoon</description>
+        <!-- <pubDate></pubDate> -->
+        <link>http://coohex.github.io/games/project035-en</link>
+        <guid isPermaLink="true">http://coohex.github.io/games/project035-en</guid>
+      </item>
+    
+      
+      <item>
+        <title>The Escape of Worker</title>
+        <description>The Escape of Worker</description>
+        <!-- <pubDate></pubDate> -->
+        <link>http://coohex.github.io/games/project028-en</link>
+        <guid isPermaLink="true">http://coohex.github.io/games/project028-en</guid>
+      </item>
+    
+      
+      <item>
+        <title>The Legendary Hero&apos;s Life</title>
+        <description>The Legendary Hero&apos;s Life</description>
+        <!-- <pubDate></pubDate> -->
+        <link>http://coohex.github.io/games/project026-en</link>
+        <guid isPermaLink="true">http://coohex.github.io/games/project026-en</guid>
+      </item>
+    
+      
+      <item>
+        <title>Supper Doggie</title>
+        <description>Supper Doggie</description>
+        <!-- <pubDate></pubDate> -->
+        <link>http://coohex.github.io/games/project025-en</link>
+        <guid isPermaLink="true">http://coohex.github.io/games/project025-en</guid>
+      </item>
+    
+      
+      <item>
+        <title>Sword and Shadow</title>
+        <description>Sword and Shadow</description>
+        <!-- <pubDate></pubDate> -->
+        <link>http://coohex.github.io/games/project023-en</link>
+        <guid isPermaLink="true">http://coohex.github.io/games/project023-en</guid>
+      </item>
+    
+      
+      <item>
+        <title>Jelly: Survival Evolved</title>
+        <description>Jelly: Survival Evolved</description>
+        <!-- <pubDate></pubDate> -->
+        <link>http://coohex.github.io/games/project022-en</link>
+        <guid isPermaLink="true">http://coohex.github.io/games/project022-en</guid>
+      </item>
+    
+      
+      <item>
+        <title>Lawless Dancer</title>
+        <description>Lawless Dancer</description>
+        <!-- <pubDate></pubDate> -->
+        <link>http://coohex.github.io/games/project021-en</link>
+        <guid isPermaLink="true">http://coohex.github.io/games/project021-en</guid>
+      </item>
+    
+      
+      <item>
+        <title>Story of Zombie Seasons</title>
+        <description>Story of Zombie Seasons</description>
+        <!-- <pubDate></pubDate> -->
+        <link>http://coohex.github.io/games/project020-en</link>
+        <guid isPermaLink="true">http://coohex.github.io/games/project020-en</guid>
+      </item>
+    
+      
+      <item>
+        <title>Restaurant Merge</title>
+        <description>Restaurant Merge</description>
+        <!-- <pubDate></pubDate> -->
+        <link>http://coohex.github.io/games/project019-en</link>
+        <guid isPermaLink="true">http://coohex.github.io/games/project019-en</guid>
+      </item>
+    
+      
+      <item>
+        <title>Fight The Boss</title>
+        <description>Fight The Boss</description>
+        <!-- <pubDate></pubDate> -->
+        <link>http://coohex.github.io/games/project018-en</link>
+        <guid isPermaLink="true">http://coohex.github.io/games/project018-en</guid>
+      </item>
+    
+  </channel>
+</rss>
