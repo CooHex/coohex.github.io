@@ -1,1 +1,22 @@
+User-agent: *
+
+# --- 真正的保护项 ---
+# 屏蔽后台和私有目录（这些不参与渲染）
+# Disallow: /admin/
+# Disallow: /backup/
+# Disallow: /private/
+# Disallow: /cgi-bin/
+# Disallow: /temp/
+
+# --- 性能项 ---
+# 屏蔽内部搜索结果页（防止无限路径导致爬虫掉进死循环）
+# Disallow: /search/
+
+# --- 资源项 ---
+# 允许抓取所有渲染必需资源
+# Allow: /assets/
+
+# --- Api项 ---
+Disallow: /update/
+
 Sitemap: https://coohex.github.io/sitemap.xml
